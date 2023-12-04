@@ -5,4 +5,4 @@ Super-Easy Object Detection with ResNet and Gradio
 Supports Uploads and Real-Time webcam capturing!
 
 Reference: [Medium 👉 Hugging Face-  Performing Object Detection
-using Video Stream]([http://example.com](https://levelup.gitconnected.com/huggingface-performing-object-detection-using-video-stream-dafcb0570a91)https://levelup.gitconnected.com/huggingface-performing-object-detection-using-video-stream-dafcb0570a91)
+using Video Stream]([https://example.com](https://levelup.gitconnected.com/huggingface-performing-object-detection-using-video-stream-dafcb0570a91)https://levelup.gitconnected.com/huggingface-performing-object-detection-using-video-stream-dafcb0570a91)
