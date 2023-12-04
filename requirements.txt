@@ -1,0 +1,6 @@
+torch
+transformers
+timm
+opencv-python
+gradio==3.14
+numpy
